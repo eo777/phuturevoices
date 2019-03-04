@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/phuturevoices/precache-manifest.55aab8754697af4d0c38b15057749025.js"
+  "/phuturevoices/precache-manifest.0e932e60fac5a8ff8e3f1f2009a4cc99.js"
 );
 
 workbox.clientsClaim();
