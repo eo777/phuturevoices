@@ -1,15 +1,16 @@
 {
-  "main.css": "/phuturevoices/static/css/main.90efe449.chunk.css",
-  "main.js": "/phuturevoices/static/js/main.b1285586.chunk.js",
-  "main.js.map": "/phuturevoices/static/js/main.b1285586.chunk.js.map",
+  "main.css": "/phuturevoices/static/css/main.4241bf58.chunk.css",
+  "main.js": "/phuturevoices/static/js/main.9693316f.chunk.js",
+  "main.js.map": "/phuturevoices/static/js/main.9693316f.chunk.js.map",
   "runtime~main.js": "/phuturevoices/static/js/runtime~main.462c20d8.js",
   "runtime~main.js.map": "/phuturevoices/static/js/runtime~main.462c20d8.js.map",
-  "static/js/2.8ba0efc3.chunk.js": "/phuturevoices/static/js/2.8ba0efc3.chunk.js",
-  "static/js/2.8ba0efc3.chunk.js.map": "/phuturevoices/static/js/2.8ba0efc3.chunk.js.map",
+  "static/js/2.fa630fb0.chunk.js": "/phuturevoices/static/js/2.fa630fb0.chunk.js",
+  "static/js/2.fa630fb0.chunk.js.map": "/phuturevoices/static/js/2.fa630fb0.chunk.js.map",
   "index.html": "/phuturevoices/index.html",
-  "precache-manifest.567714bb587ec4a2d2c26c67d5cd5838.js": "/phuturevoices/precache-manifest.567714bb587ec4a2d2c26c67d5cd5838.js",
+  "precache-manifest.c7d09e39cd7248e51ad6852c39ad1e19.js": "/phuturevoices/precache-manifest.c7d09e39cd7248e51ad6852c39ad1e19.js",
   "service-worker.js": "/phuturevoices/service-worker.js",
-  "static/css/main.90efe449.chunk.css.map": "/phuturevoices/static/css/main.90efe449.chunk.css.map",
+  "static/css/main.4241bf58.chunk.css.map": "/phuturevoices/static/css/main.4241bf58.chunk.css.map",
+  "static/media/image.jpg": "/phuturevoices/static/media/image.8f2a9ec4.jpg",
   "static/media/logo.svg": "/phuturevoices/static/media/logo.5d5d9eef.svg",
   "static/media/test1.jpg": "/phuturevoices/static/media/test1.b8ccc1c7.jpg"
 }
