@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "7b6c9872e4ad8f952e94",
+    "revision": "d03951596dc36dd17f3f",
     "url": "/phuturevoices/static/css/main.4241bf58.chunk.css"
   },
   {
-    "revision": "7b6c9872e4ad8f952e94",
-    "url": "/phuturevoices/static/js/main.7b6c9872.chunk.js"
+    "revision": "d03951596dc36dd17f3f",
+    "url": "/phuturevoices/static/js/main.d0395159.chunk.js"
   },
   {
     "revision": "462c20d80492cf18cc05",
@@ -28,7 +28,7 @@ self.__precacheManifest = [
     "url": "/phuturevoices/static/media/image.8f2a9ec4.jpg"
   },
   {
-    "revision": "4901cab541beecd378cfad976862958e",
+    "revision": "bca7b31b20eca9baf9e020f842c570d1",
     "url": "/phuturevoices/index.html"
   }
 ];
