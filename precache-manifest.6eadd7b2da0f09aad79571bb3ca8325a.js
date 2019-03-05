@@ -1,19 +1,19 @@
 self.__precacheManifest = [
   {
-    "revision": "83b9d379a048a16fb29d",
+    "revision": "e75e2caafa981e23b197",
     "url": "/phuturevoices/static/css/main.53afece1.chunk.css"
   },
   {
-    "revision": "83b9d379a048a16fb29d",
-    "url": "/phuturevoices/static/js/main.83b9d379.chunk.js"
+    "revision": "e75e2caafa981e23b197",
+    "url": "/phuturevoices/static/js/main.e75e2caa.chunk.js"
   },
   {
     "revision": "462c20d80492cf18cc05",
     "url": "/phuturevoices/static/js/runtime~main.462c20d8.js"
   },
   {
-    "revision": "fa4be0e2588d44152543",
-    "url": "/phuturevoices/static/js/2.fa4be0e2.chunk.js"
+    "revision": "ddccc69cd4a3a0d6d13f",
+    "url": "/phuturevoices/static/js/2.ddccc69c.chunk.js"
   },
   {
     "revision": "5d5d9eefa31e5e13a6610d9fa7a283bb",
@@ -28,7 +28,7 @@ self.__precacheManifest = [
     "url": "/phuturevoices/static/media/image.8f2a9ec4.jpg"
   },
   {
-    "revision": "0efd42d081c424a871d6d436a80b87c4",
+    "revision": "5a5c5b2b78a9b6ecdceaab1075c9427e",
     "url": "/phuturevoices/index.html"
   }
 ];
