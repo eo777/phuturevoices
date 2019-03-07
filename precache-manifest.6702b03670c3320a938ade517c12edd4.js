@@ -1,19 +1,19 @@
 self.__precacheManifest = [
   {
-    "revision": "3b6158497af6ab5d8429",
-    "url": "/phuturevoices/static/css/main.53afece1.chunk.css"
+    "revision": "259bf367729c7725e5ac",
+    "url": "/phuturevoices/static/css/main.af54436f.chunk.css"
   },
   {
-    "revision": "3b6158497af6ab5d8429",
-    "url": "/phuturevoices/static/js/main.3b615849.chunk.js"
+    "revision": "259bf367729c7725e5ac",
+    "url": "/phuturevoices/static/js/main.259bf367.chunk.js"
   },
   {
     "revision": "462c20d80492cf18cc05",
     "url": "/phuturevoices/static/js/runtime~main.462c20d8.js"
   },
   {
-    "revision": "69dc95f0d270f1aedf7d",
-    "url": "/phuturevoices/static/js/2.69dc95f0.chunk.js"
+    "revision": "a5fb8a51b5960cec2d7c",
+    "url": "/phuturevoices/static/js/2.a5fb8a51.chunk.js"
   },
   {
     "revision": "5d5d9eefa31e5e13a6610d9fa7a283bb",
@@ -28,7 +28,7 @@ self.__precacheManifest = [
     "url": "/phuturevoices/static/media/image.8f2a9ec4.jpg"
   },
   {
-    "revision": "261c5ab95609ab912a4e7b1c1f77e35b",
+    "revision": "26790e6b8c6febec42ab733b8495a699",
     "url": "/phuturevoices/index.html"
   }
 ];
